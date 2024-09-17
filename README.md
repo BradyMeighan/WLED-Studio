@@ -171,3 +171,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   - [Pillow](https://python-pillow.org/)
   - [NumPy](https://numpy.org/)
   - [Tkinter](https://docs.python.org/3/library/tkinter.html)
+
+## Support the Project
+If you find WLED Studio helpful and want to support its development, consider buying me a coffee! Your support helps me continue working on this project and others like it.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bradymeighan)
+
