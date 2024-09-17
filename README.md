@@ -51,8 +51,8 @@ If you find WLED Studio helpful and want to support its development, consider bu
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/led-video-wall-streamer.git
-cd led-video-wall-streamer
+git clone https://github.com/BradyMeighan/WLED-Studio.git
+cd WLED-Video
 ```
 
 ### Install Dependencies
