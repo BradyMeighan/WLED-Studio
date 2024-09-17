@@ -9,7 +9,7 @@ import cv2
 import numpy as np
 import time
 import threading
-from PIL import Image, ImageTk
+from PIL import Image, ImageTk, ImageGrab
 from typing import List, Optional, Tuple  # Added List here
 
 from src.capture.video_capture import VideoCapture
