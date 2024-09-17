@@ -1,0 +1,9 @@
+customtkinter>=4.6.2
+pyperclip>=1.8.2
+vidgear>=0.2.0
+opencv-python>=4.5.5.64
+numpy>=1.23.5
+Pillow>=9.4.0
+requests>=2.28.1
+pyserial>=3.5
+yt-dlp>=2023.7.3
