@@ -52,7 +52,7 @@ If you find WLED Studio helpful and want to support its development, consider bu
 ### Clone the Repository
 ```bash
 git clone https://github.com/BradyMeighan/WLED-Studio.git
-cd WLED-Video
+cd WLED-Studio
 ```
 
 ### Install Dependencies
